@@ -44,3 +44,7 @@ The following websites were useful while developing this project:
 
 * [MDN Web Docs – JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [MDN Web Docs – Fetch API]()*
+
+clone https://github.com/Mayes007/musicplayermanager1.git
+
+cd music-player-manager

@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1,
+        "title": "If I Can Dream",
+        "artist": "Elvis Presley",
+        "album": "Elvis",
+        "year": 1968,
+        "genre": "Soulmusic, Gospel, Rockability, Traditional Gospel, Pop music, Vocal/Easy listening, Rock"
+    }
+
+    {
+        "id": 2,
+        "title": "Jailhouse Rock",
+        "artist": "Elvis Presley",
+        "album": "Jailhouse Rock",
+        "year": 1957,
+        "genre": "Rock and roll"
+    }
+    {
+        "id": 3,
+        "title": "Hound Dog",
+        "artist": "Elvis Presley",
+        "album": "Elvis' Golden Records",
+        "year": 1956,
+        "genre": "Rock and roll"
+    }
+
+    {
+        "id": 4,
+        "title": "Can't Help Falling in Love",
+        "artist": "Elvis Presley",
+        "album": "Blue Hawaii",
+        "year": 1961,
+        "genre": "Pop music, Ballad, Traditional pop"
+
+    }
+
+
+    {
+        "id": 5,
+        "title": "Love Me Tender",
+        "artist": "Elvis Presley",
+        "album": "Love Me Tender",
+        "year": 1956,
+        "genre": "Pop music, Ballad, Traditional pop"
+    }
+]
+
