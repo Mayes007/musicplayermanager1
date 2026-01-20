@@ -6,8 +6,7 @@
         "album": "Elvis",
         "year": 1968,
         "genre": "Soulmusic, Gospel, Rockability, Traditional Gospel, Pop music, Vocal/Easy listening, Rock"
-    }
-
+    },
     {
         "id": 2,
         "title": "Jailhouse Rock",
@@ -15,7 +14,7 @@
         "album": "Jailhouse Rock",
         "year": 1957,
         "genre": "Rock and roll"
-    }
+    },
     {
         "id": 3,
         "title": "Hound Dog",
@@ -23,8 +22,7 @@
         "album": "Elvis' Golden Records",
         "year": 1956,
         "genre": "Rock and roll"
-    }
-
+    },
     {
         "id": 4,
         "title": "Can't Help Falling in Love",
@@ -33,9 +31,7 @@
         "year": 1961,
         "genre": "Pop music, Ballad, Traditional pop"
 
-    }
-
-
+    },
     {
         "id": 5,
         "title": "Love Me Tender",
@@ -43,8 +39,7 @@
         "album": "Love Me Tender",
         "year": 1956,
         "genre": "Pop music, Ballad, Traditional pop"
-    }
-
+    },
     {
         "id": 6,
         "title": "If I can Fly",
@@ -52,7 +47,7 @@
         "album": "Made in the A.M.",
         "year": 2015,
         "genre": "Pop music"
-    }
+    },
     {
         "id": 7,
         "title": "Once in a lifetime",
@@ -60,7 +55,7 @@
         "album": "Four",
         "year": 2015,
         "genre": "Pop rock"
-    }
+    },
     {
         "id": 8,
         "title": "Little Things",
@@ -68,7 +63,7 @@
         "album": "Up All Night",
         "year": 2011,
         "genre": "Pop music, Acoustic pop"
-    }
+    },
     {
         "id": 9,
         "title": "Story of My Life",
@@ -76,7 +71,7 @@
         "album": "Midnight Memories",
         "year": 2013,
         "genre": "Folk pop, Pop rock"
-    }
+    },
     {
         "id": 10,
         "title": "History",
@@ -84,8 +79,7 @@
         "album": "Made in the A.M.",
         "year": 2020,
         "genre": "Pop music"
-    }
-
+    },
     {
         "id": 11,
         "title": "Olivia",
@@ -93,7 +87,7 @@
         "album": "Made in the A.M.",
         "year": 2015,
         "genre": "Pop Rock, Folk Pop, Synthpop"
-    }
+    },
     {
         "id": 12,
         "title": "Best Song Ever",
@@ -101,7 +95,7 @@
         "album": "Midnight Memories",
         "year": 2013,
         "genre": "Pop rock, Dance-pop"
-    }
+    },
     {
         "id": 13,
         "title": "Happily",
