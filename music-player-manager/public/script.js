@@ -21,20 +21,13 @@ async function loadSongs() {
 songForm.addEventListener("submit", async (e) => {
   e.preventDefault();
 
-  const song = {
-    title: title.value,
-    artist: artist.value,
-    audioUrl: audioUrl.value
-  };
+  const formData = new FormData(songForm);
 
-  await fetch(API_URL, {
+  await fetch("http://localhost:3000/songs", {
     method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify(song)
+    body: formData
   });
 
   songForm.reset();
   loadSongs();
 });
-
-loadSongs();
