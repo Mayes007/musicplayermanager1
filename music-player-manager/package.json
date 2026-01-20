@@ -1,0 +1,21 @@
+{
+  "name": "music-player-manager",
+  "version": "1.0.0",
+  "description": "The Music Player Manager is a web-based application that allows users to manage and play music files using a local JSON-based database. Song information such as title, artist, and file location is stored in a structured JSON file, which acts as the database. The application dynamically reads this data using JavaScript and plays music directly in the browser through the HTML audio player.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+
+  },
+  "keywords": [],
+  "author": "Samantha Mayes",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "mongoose": "^9.1.5"
+  }
+}
